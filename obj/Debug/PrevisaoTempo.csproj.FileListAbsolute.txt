@@ -1,0 +1,9 @@
+G:\MODULO2\PrevisaoTempo\bin\Debug\PrevisaoTempo.exe.config
+G:\MODULO2\PrevisaoTempo\bin\Debug\PrevisaoTempo.exe
+G:\MODULO2\PrevisaoTempo\bin\Debug\PrevisaoTempo.pdb
+G:\MODULO2\PrevisaoTempo\obj\Debug\PrevisaoTempo.csproj.AssemblyReference.cache
+G:\MODULO2\PrevisaoTempo\obj\Debug\PrevisaoTempo.Properties.Resources.resources
+G:\MODULO2\PrevisaoTempo\obj\Debug\PrevisaoTempo.csproj.GenerateResource.cache
+G:\MODULO2\PrevisaoTempo\obj\Debug\PrevisaoTempo.csproj.CoreCompileInputs.cache
+G:\MODULO2\PrevisaoTempo\obj\Debug\PrevisaoTempo.exe
+G:\MODULO2\PrevisaoTempo\obj\Debug\PrevisaoTempo.pdb
